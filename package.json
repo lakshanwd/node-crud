@@ -1,0 +1,26 @@
+{
+  "name": "node-crud",
+  "version": "1.0.0",
+  "description": "an example rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/supunz/node-crud.git"
+  },
+  "keywords": [
+    "node",
+    "rest-api"
+  ],
+  "author": "supunlakshandissanayake@gmail.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/supunz/node-crud/issues"
+  },
+  "homepage": "https://github.com/supunz/node-crud#readme",
+  "dependencies": {
+    "restify": "^6.3.4"
+  }
+}
